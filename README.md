@@ -26,4 +26,4 @@ Miglioramenti o funzioni da aggiungere in futuro:
 -Aggiunta di grafica di qualità superiore 
 -Implementazione Database relazionale (come SQLite)
 
-Video demo su YT:  https://youtu.be/HrFPr8zUbO
+Video demo su YT:  [https://youtu.be/HrFPr8zUbO](https://youtu.be/HrFPr8zUbOE?si=AOdLAaNasqXzAO42)
