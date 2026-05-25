@@ -1,0 +1,12 @@
+Copyright (c) 2025 sill483
+
+Tutti i diritti riservati.
+
+Il contenuto di questo repository è fornito esclusivamente a scopo di consultazione.
+
+Non è consentito copiare, modificare, distribuire, eseguire o utilizzare in alcuna forma 
+il codice sorgente o qualsiasi parte di esso senza autorizzazione scritta da parte dell'autore.
+
+Per richieste di utilizzo, contattare: [silvia.magri04@gmail.com]
+
+[EN] This code is for viewing purposes only. Any use, modification, or distribution is prohibited without written permission from the author.
